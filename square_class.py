@@ -54,6 +54,10 @@ class Square:
         Return : None
         '''
         self.side = side
-     
-    
+
+    #other methods
+    def __del__(self):
+        
+        print("Deleted!")
+        Square.count-=1
     

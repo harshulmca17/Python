@@ -17,15 +17,22 @@ def draw_square():
     brad.color("yellow")
     brad.speed(1)
 
+    #turtle movement
+    brad.forward(100)
+    brad.right(90)
+    brad.forward(100)
+    brad.right(90)
+    brad.forward(100)
+    brad.right(90)
+    brad.forward(100)
+    brad.right(90)
+
+    #creating second turtle - angie 
+    angie = turtle.Turtle()
+    angie.shape("arrow")
+    angie.color("green")
+    angie.circle(100)
     
-    brad.forward(100)
-    brad.right(90)
-    brad.forward(100)
-    brad.right(90)
-    brad.forward(100)
-    brad.right(90)
-    brad.forward(100)
-    brad.right(90)
 
     window.exitonclick()
 

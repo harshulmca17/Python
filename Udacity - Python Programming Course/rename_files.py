@@ -1,5 +1,7 @@
 import os
 
+#Sample file for renaming can be downloaded from here : https://s3.amazonaws.com/udacity-hosted-downloads/ud036/prank.zip
+
 #Specify the address of the directory that you want to access
 directory = r"C:\Users\bohet\Documents\GitHub\Python\Udacity - Python Programming Course\prank"
 

@@ -1,4 +1,4 @@
-Link to the Course -> Udacity - https://in.udacity.com/course/programming-foundations-with-python--ud036
+Link to the Course -> https://in.udacity.com/course/programming-foundations-with-python--ud036
 
-Files made in Udacity - Python Programming Course
+This repository contains files made in Udacity - Python Programming Course
 

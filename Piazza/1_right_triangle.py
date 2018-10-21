@@ -1,7 +1,7 @@
 def rtTriangle():
     
     '''
-    objective : to draw a right angle triangle 
+    objective : to draw left intended a right angle triangle 
     approach  : printing multiple lines of asterisks
     '''
     

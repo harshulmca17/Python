@@ -7,9 +7,10 @@ class Square:
     #Constructor
     def __init__(self,side):
         '''
+        
         Objective : To initialize a object of class Square.
-            self (implicit parameter) : object of type Square.
-            side: The length of Square side.
+           Inputs : self (implicit parameter) : object of type Square.
+                    side: The length of Square side.
         '''
         self.side = side
         Square.count+=1
